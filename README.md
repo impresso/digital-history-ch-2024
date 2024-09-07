@@ -1,6 +1,6 @@
 # Impresso Extended Abstract for Digital History Switzerland 2024
 
-This repository hosts the extended abstract on Impresso for the Digital History Switzerland 2024 conference. 
+This repository hosts the extended abstract on Impresso for the **Digital History Switzerland 2024 conference** hosted in Basel in Sept 2024. 
 
 Please view the abstract here: [https://digihistch24.github.io/book-of-abstracts/](https://digihistch24.github.io/book-of-abstracts/).
 
