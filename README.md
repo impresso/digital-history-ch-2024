@@ -7,5 +7,5 @@ Please view the abstract here: [https://digihistch24.github.io/book-of-abstracts
 To compile locally:    
 
 - install quarto
-- create an environbement with `requirements.txt`
+- create an environment with `requirements.txt`
 - run `quarto preview submission`
